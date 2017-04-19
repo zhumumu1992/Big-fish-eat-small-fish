@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## 使用原生JS面向对象实现大鱼吃小鱼
+使用鼠标来控制本身的鱼来移动，吃鱼的时候使用的是碰撞检测实现的，每吃掉一条小鱼就会相应的增加一定的血量，被吃掉的鱼越大，加的经验值越多，当经验值达到规定数值时，本身的鱼就会增大。但是本身的鱼必须要比敌人的鱼大才可以吃掉敌人鱼，一共会增大5个等级。
 
-You can use the [editor on GitHub](https://github.com/429461542zsl/Big-fish-eat-small-fish/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/429461542zsl/Big-fish-eat-small-fish/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+地址：https://429461542zsl.github.io/Big-fish-eat-small-fish/
